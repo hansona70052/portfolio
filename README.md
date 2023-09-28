@@ -1,3 +1,2 @@
-# portfolio
-basics of html
-boilerplates, elements, etc
+# Portfolio
+I have no idea what I'm doing
