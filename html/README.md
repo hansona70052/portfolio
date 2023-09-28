@@ -6,5 +6,6 @@
 
 ## white_Star_Line.html
 <ul>
-<li>html lists, ordered and unordered lists</li>
+<li>lists, ordered and unordered lists</li>
+<li>anchor tags</li>
 </ul>
