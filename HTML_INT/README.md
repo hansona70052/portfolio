@@ -1,7 +1,7 @@
 # HTML_INT
-## .html
+## recipes.html
 <ul>
-<li>x</li>
-<li>y</li>
-<li>z</li>
+<li>block vs inline elements</li>
+<li>div/span elements</li>
+<li>intro to CSS</li>
 </ul>
