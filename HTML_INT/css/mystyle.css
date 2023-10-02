@@ -1,10 +1,54 @@
+.body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .myDiv{
     border-radius: 10px;
     border: 5px solid cornflowerblue;
     text-align: center;
+    background-color: lightgoldenrodyellow;
+    font-family: Arial, Helvetica, sans-serif;
 }
+
 .mySpan{
     font-weight: bold;
     font-size: larger;
     font-family: "Times New Roman", Times, serif;
+}
+
+.leftDiv{
+    display: inline-block;
+    width: 350px;
+    height: 20px;
+    border-radius: 10px;
+    border: 3px solid black;
+    text-align: center;
+    background-color: lightpink;
+}
+
+.rightDiv{
+    display: inline-block;
+    width: 350px;
+    height: 20px;
+    border-radius: 10px;
+    border: 3px solid black;
+    text-align: center;
+    background-color: lightgreen;
+}
+
+.leftSpan{
+    display: inline-block;
+    width: 100px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: hotpink;
+}
+
+.rightSpan{
+    display: inline-block;
+    width: 100px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: green;
+    color: white;
 }
