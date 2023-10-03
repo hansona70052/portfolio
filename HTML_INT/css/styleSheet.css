@@ -1,0 +1,10 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+table, th{
+    border:2px solid black;
+}
+
+table, td{
+    border:1px solid black;
+}

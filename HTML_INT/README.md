@@ -6,4 +6,9 @@
 <li>intro to CSS</li>
 </ul>
 
-## insert new file name here
+## greek.html
+<ul>
+<li>sectional/semantic elements (main, header, nav, etc)</li>
+<li>html entities, special characters</li>
+<li>tables and graphs</li>
+</ul>
