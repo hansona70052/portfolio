@@ -28,6 +28,11 @@ td {
     font-size: 20px;
 }
 
+.blue{
+    background-color: #0032a1;   
+    color: white;
+}
+
 .emphasize {
     font-weight: bold;
     font-style: italic;
